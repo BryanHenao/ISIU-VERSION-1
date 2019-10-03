@@ -1,0 +1,97 @@
+.titulos {
+    text-align: center;
+    background-color: #C0D8E7
+}
+
+.distribucionFisica {
+    text-align: center;
+    background-color: #B2BEC6;
+    color: black
+}
+
+.ancho {
+    width: 100%;
+}
+
+.centrar {
+    text-align: center;
+}
+
+.mobiliarioExistente {
+    background-color: #B2BEC6;
+    color: black;
+}
+
+.ancho80 {
+    width: 80px;
+}
+
+.estilo1 {
+    text-align: center;
+    width: 100px;
+    background-color: #B2BEC6;
+    color: black
+}
+
+.estilo2 {
+    text-align: center;
+    width: 80px;
+    background-color: #B2BEC6;
+    color: black;
+}
+
+.estilo3 {
+    text-align: center;
+    width: 5%;
+    background-color: #B2BEC6;
+    color: black;
+}
+
+.ancho200 {
+    width: 200px;
+}
+
+.ancho2 {
+    width: 100px;
+}
+
+td.estilo5 {
+    border-style: none;
+    width: 100px;
+}
+
+.estilo4 {
+    width: 100px;
+    text-align: center;
+    color: brown;
+}
+
+td.estilo6 {
+    width: 100px;
+    border-style: none;
+    background-color: white;
+}
+
+.estilo7 {
+    text-align: center;
+    background-color: #C0D8E7;
+}
+
+.estilo8 {
+    width: 95%;
+    text-align: center;
+    height: 40px;
+}
+
+.estilo9 {
+    width: 100%;
+    text-align: center;
+    color: #890202;
+}
+
+.estilo10 {
+    width: 100%;
+    height: 300px;
+    text-align: center;
+    color: #890202;
+}
